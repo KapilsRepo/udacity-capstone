@@ -233,4 +233,4 @@ workflows:
             - test-build
           filters:
             branches:
-              only: [ master ]
+              only: [ main ]
